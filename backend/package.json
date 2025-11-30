@@ -15,7 +15,7 @@
     "restful-api",
     "crud"
   ],
-  "author": "Your Name",
+  "author": "Baris Isci",
   "license": "MIT",
   "dependencies": {
     "bcryptjs": "^2.4.3",
