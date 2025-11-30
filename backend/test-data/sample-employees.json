@@ -1,0 +1,47 @@
+[
+  {
+    "first_name": "Jane",
+    "last_name": "Doe",
+    "email": "jane.doe@example.com",
+    "position": "Software Engineer",
+    "salary": 90000,
+    "date_of_joining": "2023-08-01T00:00:00.000Z",
+    "department": "Engineering"
+  },
+  {
+    "first_name": "John",
+    "last_name": "Smith",
+    "email": "john.smith@example.com",
+    "position": "Product Manager",
+    "salary": 110000,
+    "date_of_joining": "2023-07-15T00:00:00.000Z",
+    "department": "Product"
+  },
+  {
+    "first_name": "Alice",
+    "last_name": "Johnson",
+    "email": "alice.johnson@example.com",
+    "position": "Designer",
+    "salary": 85000,
+    "date_of_joining": "2023-08-10T00:00:00.000Z",
+    "department": "Design"
+  },
+  {
+    "first_name": "Bob",
+    "last_name": "Wilson",
+    "email": "bob.wilson@example.com",
+    "position": "DevOps Engineer",
+    "salary": 95000,
+    "date_of_joining": "2023-06-20T00:00:00.000Z",
+    "department": "Engineering"
+  },
+  {
+    "first_name": "Sarah",
+    "last_name": "Brown",
+    "email": "sarah.brown@example.com",
+    "position": "Marketing Manager",
+    "salary": 75000,
+    "date_of_joining": "2023-09-01T00:00:00.000Z",
+    "department": "Marketing"
+  }
+]
